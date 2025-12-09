@@ -5,7 +5,7 @@
 - 也就是不需要安装 Python 环境，直接运行 exe 即可 (见 Release 下载)
 
 ## 📥 下载与使用 (针对普通用户)
-请前往 [Releases 页面](https://github.com/sepasure/OsteoNet/releases/tag/classification)) 下载最新版本的 `main_gui.exe` 和 `model.onnx`。
+请前往 [Releases 页面](https://github.com/sepasure/OsteoNet/releases/tag/classification) 下载最新版本的 `main_gui.exe` 和 `model.onnx`。
 
 1. 双击打开 `main_gui.exe`
 2. 点击“加载模型”选择 `.onnx` 文件

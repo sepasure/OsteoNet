@@ -1,4 +1,5 @@
 # OsteoNet
+## 数据集：https://www.kaggle.com/datasets/asuresep/hamsc-dataset
 ## ✨ 功能特点
 - 支持加载任意 `.onnx` 格式的分类模型
 - 图形化界面 (GUI)，操作简单

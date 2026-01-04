@@ -23,3 +23,6 @@ pip install onnxruntime numpy pillow
 
 # 3. 运行
 python main_gui.py
+
+## 数据集
+https://www.kaggle.com/datasets/asuresep/hamsc-dataset
